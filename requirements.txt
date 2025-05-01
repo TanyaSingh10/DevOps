@@ -1,0 +1,4 @@
+flask
+pymysql  # or psycopg2 for PostgreSQL
+gunicorn
+

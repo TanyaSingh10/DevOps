@@ -1,0 +1,12 @@
+.DS_Store
+.Trash/
+Library/
+*.log
+*.bak
+*.swp
+
+myenv/
+Downloads/*.dmg
+Downloads/*.pkg
+Downloads/*.zip
+
